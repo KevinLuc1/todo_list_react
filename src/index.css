@@ -1,0 +1,13 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+html, 
+body {
+	background: linear-gradient(90deg, #b6f2f1, #bcf7c3, #f2f7bc);
+	font-size: 1.1rem;
+	font-family: "Quicksand", sans-serif;
+	height: 100%;
+}
